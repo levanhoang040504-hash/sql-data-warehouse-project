@@ -16,8 +16,6 @@ Usage Notes:
     - Investigate and resolve any discrepancies found during the checks.
 ===============================================================================
 */
-use DataWarehouse;
-go
 
 -- ====================================================================
 -- Checking 'silver.crm_cust_info'
