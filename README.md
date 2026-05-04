@@ -105,4 +105,4 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hello! I'm Le Van Hoang, Someone who is trying to become a data engineer and do something great for society. Join me!
+Hello! I'm Le Van Hoang, Someone who is trying to become a Data Engineer and do something great for society. Join me!
